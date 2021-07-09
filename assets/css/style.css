@@ -1,0 +1,90 @@
+ /* ************************GENERAL******************** */
+ /* ************************Header********************* */
+  header{
+      background-color:#cad2c5;
+      height: 100vh;
+}
+#title{
+    text-align: center;
+    position: relative;
+    padding-top: 40vh;
+}
+.navbar {
+    background-color:gray;
+    height:60px;
+}
+.nav-link{
+    margin-left: 120px;
+    font-size: large;
+    font-weight: bold;
+}
+.propos{
+    background-color: beige;
+    height: 150vh;
+    padding-top: 5%;
+    font-size: xx-large;
+    font-weight:45%;
+}
+.badge{
+    margin-left: 15%;
+    font-size: xx-large;
+}
+.card{
+    margin-left: 10%;
+    font-size:large;
+    margin-top: 10%;
+
+}
+.lorem{
+    font-size:x-small;
+    padding-left: 20%;
+    padding-top: 10%;
+}
+.compétences{
+    height: 100vh;
+    background-color: #f7f9f9;
+}
+.comp{
+    
+    margin-left: 25%;
+    padding-top: 10%;
+    font-size: xx-large;
+
+}
+.logo{
+    padding-top: 50px;
+}
+.fa-html5:before{
+    font-size: 90px;
+    color: orangered;
+}
+.fa-css3-alt:before{
+    font-size: 90px;
+    color: blue;
+    margin-left: 500px;
+}
+.fa-js:before{
+    font-size: 90px;
+    color: yellow;
+    margin-left:600%;
+}
+.logo2{
+    padding-top:100px;
+}
+.fa-bootstrap:before{
+    font-size: 90px;
+    color: purple;
+    margin-left: 20px;
+}
+.fa-php:before{
+    font-size:90px;
+    color: #787cb5;
+    margin-left: 250px;
+}
+.fa-wordpress{
+    font-size: 90px;
+    color: #21759b;
+    margin-left: 350px;
+}
+
+
